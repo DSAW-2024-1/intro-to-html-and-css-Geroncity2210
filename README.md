@@ -7,7 +7,7 @@
 
 Bienvenido al taller de desarrollo web donde aprenderemos a crear y estilizar una página sencilla de recetas. Este taller se divide en dos partes:
 
-## Parte 1: Desarrollo del HTML
+## Parte 1: Desarrollo del HTML (Terminada)
 En esta primera parte, el objetivo es desarrollar todo el HTML necesario para montar la página de recetas. Utilizaremos las etiquetas semánticas de HTML para estructurar el contenido de manera significativa. Cada receta debe tener su propia sección con título, descripción, tiempo de preparación, ingredientes, pasos a seguir y tabla nutricional.
 
 ## Parte 2: Estilos con CSS
