@@ -1,0 +1,22 @@
+*{
+    background: hsl(330, 100%, 98%);
+}
+p{
+    font-size: 16px;
+    font-family: Outfit;
+}
+
+.subtitles{
+    font-family: Young Serif;
+}
+
+#OmeletteImg{
+    width: 980px;
+    border-radius: 30px;
+}
+
+#MainTitle{
+    font-family: Young serif;
+    font-size: 30px;
+
+}
